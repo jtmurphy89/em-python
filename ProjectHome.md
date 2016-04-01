@@ -1,0 +1,1 @@
+An implementation of the EM algorithm described in page 254 of the textbook "Foundations of Statistical Natural Language Processing", wrote by Christopher D. Manning & Hinrich Schütze. [ISBN: 0-262-13360-1]
